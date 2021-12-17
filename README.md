@@ -1,4 +1,4 @@
-Basic Location Sample (Java)
+1Basic Location Sample (Java)
 ============================
 
 Demonstrates use of the Google Play services Location API to retrieve the last
